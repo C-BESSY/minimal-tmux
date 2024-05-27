@@ -1,3 +1,6 @@
 [submodule "scripts/tmux-spotify-info"]
 	path = scripts/tmux-spotify-info
 	url = https://github.com/jdx/tmux-spotify-info.git
+[submodule "scripts/tmux-cpu"]
+	path = scripts/tmux-cpu
+	url = https://github.com/tmux-plugins/tmux-cpu.git
