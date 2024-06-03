@@ -12,7 +12,7 @@ status_left_formated="#[bg=default,fg=default,bold]#{?client_prefix,,${status_le
 status_left_length=25
 
 # status_right="#($CURRENT_DIR/scripts/tmux-cpu/scripts/cpu_percentage.sh) | #($CURRENT_DIR/scripts/music.sh)"
-status_right="#($CURRENT_DIR/scripts/tmux-cpu/scripts/cpu_percentage.sh) | Richie-Z"
+status_right="#($CURRENT_DIR/scripts/tmux-cpu/scripts/cpu_percentage.sh) | Richie-Z "
 status_right_formated="#[bg=default,fg=default,bold]#{?client_prefix,,${status_right}}#[bg=${bg},fg=black,bold]#{?client_prefix,${status_right},}#[bg=default,fg=default,bold]"
 status_right_length=70
 
